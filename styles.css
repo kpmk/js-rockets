@@ -40,8 +40,9 @@ h1 {
 }
 
 body.body-state3 .rocket{
-    bottom: 1000px;
-    transition: bottom 10000ms;
+    bottom: 100000px;
+    transition: bottom 100000ms;
+    
 }
 
 .state1,
